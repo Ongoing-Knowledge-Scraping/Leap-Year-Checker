@@ -3,7 +3,7 @@ Using the leap year rules, used nested IF/ELSE and the Modulo to test entered ye
 
 ## Leap Year Checker ##
 
-![Leap Year Checker](<https://github.com/Ongoing-Knowledge-Scraping/Even-or-Odd-Number/blob/main/Leap-Year-Checker.gif> "Running the code")
+![Leap Year Checker](<https://github.com/Ongoing-Knowledge-Scraping/Leap-Year-Checker/blob/main/Leap-Year-Checker.gif> "Running the code")
 
 ## View on Replit ##
 https://replit.com/@kpatzer/Leap-Year-Checker
